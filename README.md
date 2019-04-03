@@ -7,4 +7,4 @@ On my scientific research project, i had to make automatic user guides of some v
 # Process
 1. Setup the docker-compose.yml file, setting the settings like version of Wordpress.
 2. Execute the command 'docker-compose up'
-3. Run the GuideAutomator on 'localhost
+3. Run the GuideAutomator on 'localhost:8080'
